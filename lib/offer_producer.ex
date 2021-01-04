@@ -1,0 +1,3 @@
+defmodule OfferProducer do
+
+end
